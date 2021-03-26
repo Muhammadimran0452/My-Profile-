@@ -12,4 +12,4 @@ After obtaining my degree in I.T, my aim is to work as a software developer and 
 <h3> My Profile </h3>
 According to the test Results, my personality is a protagonist. i believe as a part of the team i would try socialise and get to know everyone before initiating a project idea. Based on my personality i am really easy to get along with and work with as i am socially confident and able to control myself when needed to. Usually in a group project if an idea seems legitmate i would not question it otherwise i would look deeper into it to find a meaning or how to resolve it. Usually i would think about something being right or wrong but most of the time when i know "or i feel" usually works out.
 
-<img src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png" alt="Screenshot 1" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png" alt="Screenshot 1" width="350" height="350">
