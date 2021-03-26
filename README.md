@@ -6,4 +6,4 @@ i have Studied Software development in highschool, which helped me with coding a
 
 <h2>Ideal Job</h2>
 After obtaining my degree in I.T, my aim is to work as a softawre delveloper and eventually start my own I.T related business. 
-<insert image> ![Software Developer](https://user-images.githubusercontent.com/80655545/112658708-c7574500-8ea7-11eb-832c-b794693f1759.png)
+<input type="Software Developer" name="Software Developer" accept="image/gif, image/jpeg, image/png">
