@@ -7,4 +7,4 @@ i have Studied Software development in highschool, which helped me with coding a
 <h2>Ideal Job</h2>
 After obtaining my degree in I.T, my aim is to work as a softawre delveloper and eventually start my own I.T related business. 
 
-text-align: right ![Software Developer](https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png)
+<text align: right> ![Software Developer](https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png)</text align: right>
