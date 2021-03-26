@@ -22,7 +22,5 @@ According to the test Results, my personality is a protagonist. i believe as a p
 <h3> Project Idea </h3>
 My main Project idea is to make a online (E-commmerce) store program which can be used to sell products and customers can buy them. At the moment the online shopping demand is really high and this program will succeed in a matter of time. The way the app is going to work is there is going to be 2 logins. One, which is a customer login where all the goods are up for sale and a worker login where a worker can manually process order if they are not processed automatically. All private information will be encrypted to match the legal requirements. The app will mainly sell the products which the developer wishes to sale. In future updates all information on the app will be backed up on a cloud server and in future updates customers will be able to sale products locally or internationally. 
 
-<p align="center"> 
-<img width="400" height="380" src="![Ecommerce](https://user-images.githubusercontent.com/80655545/112668374-8c0e4380-8eb2-11eb-8b1d-7bdef8b36986.png)"> 
-
+![Ecommerce](https://user-images.githubusercontent.com/80655545/112668513-b3fda700-8eb2-11eb-9441-e3bc9592fcad.png)
 
